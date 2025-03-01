@@ -1,6 +1,6 @@
 # Agent X - AI Chatbot
 
-Agent X is a Flask-based AI chatbot application that uses OpenAI's function calling capabilities to respond to user queries and provide weather information.
+Agent X is a Flask-based AI chatbot application that uses OpenAI's function calling capabilities to respond to user queries and provide weather information. Can be used as a template for OpenAI based chatbot with additional tool (function calling) capabilities.
 
 ## Features
 
