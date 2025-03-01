@@ -4,3 +4,4 @@ openai*
 bin*
 include*
 lib*
+*venv*
